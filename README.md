@@ -1,2 +1,2 @@
 # test00
-sample
+sampleサンプル
